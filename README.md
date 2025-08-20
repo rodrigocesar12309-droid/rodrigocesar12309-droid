@@ -1,4 +1,4 @@
-# [RODRIGO CESAR] <img src="https://i.makeagif.com/media/7-15-2016/-_O_DB.gif" width="70px">
+# [RODRIGO CESAR] <img src="https://i.makeagif.com/media/7-15-2016/-_O_DB.gif" width="90px">
 
 Eu sou <strong>Rodrigo cesar</strong>, <strong>sou estudante de analise e desenvolvimento de sistemas</strong> 👨🏻‍💻 
 
