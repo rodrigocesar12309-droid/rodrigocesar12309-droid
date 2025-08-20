@@ -1,4 +1,4 @@
-# [Seu nome] <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXll-2O0jNkmpurXPeI4o57R82HVjYDaoYcQ&s" width="30px">
+# [Seu nome] <img src="https://tm.ibxk.com.br/2013/8/materias/93004181229161011.gif" width="30px">
 
 Eu sou <strong>Seu Nome</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
 
