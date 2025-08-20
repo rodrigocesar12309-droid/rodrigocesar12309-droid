@@ -1,4 +1,4 @@
-# [RODRIGO CESAR] <img src="https://cdn.pixabay.com/animation/2024/05/07/06/57/06-57-07-12_512.gif" width="60px">
+# [RODRIGO CESAR] <img src="https://cdn.pixabay.com/animation/2024/05/07/06/57/06-57-07-12_512.gif" width="70px">
 
 Eu sou <strong>Rodrigo cesar</strong>, <strong>sou estudante de analise e desenvolvimento de sistemas</strong> 👨🏻‍💻 
 
