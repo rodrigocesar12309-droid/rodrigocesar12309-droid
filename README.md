@@ -1,10 +1,10 @@
 # [Seu nome] <img src="https://tm.ibxk.com.br/2013/8/materias/93004181229161011.gif" width="30px">
 
-Eu sou <strong>Seu Nome</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
+Eu sou <strong>Rodrigo cesar</strong>, <strong>sou estudante de analise e desenvolvimento de sistemas</strong> 👨🏻‍💻 
 
-- 🚀 Atualmente estou aprendendo: <strong>Coloque as linguagens que você atualmente está aprendendo</strong> 
-- 💬 Pergunte-me sobre: <strong>Seus hobbies</strong>
-- 📣 Nós podemos falar em: <strong>Seus Idiomas</strong>
+- 🚀 Atualmente estou aprendendo: <strong>phynton, java e html</strong> 
+- 💬 Pergunte-me sobre: <strong>ler, aprender novas linguagens de programação</strong>
+- 📣 Nós podemos falar em: <strong>inglês e português</strong>
 
 <div align="center">
 
