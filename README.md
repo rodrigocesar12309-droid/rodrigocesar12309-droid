@@ -1,4 +1,4 @@
-# [Seu nome] <img src="https://veja.abril.com.br/wp-content/uploads/2016/05/giphy-3-original.gif?w=414&h=280&crop=1="30px">
+# [Seu nome] <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXll-2O0jNkmpurXPeI4o57R82HVjYDaoYcQ&s" width="30px">
 
 Eu sou <strong>Seu Nome</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
 
@@ -9,7 +9,7 @@ Eu sou <strong>Seu Nome</strong>, <strong>Faça uma breve apresentação aqui</s
 <div align="center">
 
   <a href="#" alt="Gmail">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmkRK-RUWzWxIa6U3uD1w6nipqysm-zyJXNg&s"/></a>
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL"/></a>
 
   <a href="#" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
