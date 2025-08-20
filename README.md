@@ -1,4 +1,4 @@
-# [Seu nome] <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+# [Seu nome] <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmkRK-RUWzWxIa6U3uD1w6nipqysm-zyJXNg&s="30px">
 
 Eu sou <strong>Seu Nome</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
 
