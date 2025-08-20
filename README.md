@@ -1,6 +1,6 @@
 # [Rodrigo cesar] <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
-Eu sou <strong>Seu Nome</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
+Eu sou rodrigo césar <strong>Seu Nome</strong>, <strong> sou estudante de analise e desenvimento de sistemas na faculdade senac</strong> 👨🏻‍💻 
 
 - 🚀 Atualmente estou aprendendo: <strong>Phynton e java</strong> 
 - 💬 Pergunte-me sobre: <strong>Seus hobbies</strong>
