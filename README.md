@@ -9,7 +9,7 @@ Eu sou rodrigo césar <strong></strong>, <strong> sou estudante de analise e des
 <div align="center">
 
   <a href="#" alt="Gmail">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmkRK-RUWzWxIa6U3uD1w6nipqysm-zyJXNg&s"/></a>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgdzUTGfVY3sHhvNcnzXNuoJoZ7oEaXmhEGg&s"/>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgdzUTGfVY3sHhvNcnzXNuoJoZ7oEaXmhEGg&s</a>
 
   <a href="#" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
