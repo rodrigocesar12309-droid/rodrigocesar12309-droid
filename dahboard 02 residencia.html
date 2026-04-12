@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RiseUp - Dashboard Integrado</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="dashboard-container">
+        <header>
+            <h1>Dashboard</h1>
+            <p>Visão geral das ocorrências e equipes</p>
+        </header>
+
+        <main class="main-grid">
+            
+            <div id="stats-container" class="indicators-row"></div>
+
+            <div class="main-content">
+                <div class="placeholder-map">
+                    <p>Espaço para o Mapa Interativo</p>
+                </div>
+            </div>
+
+            <aside class="sidebar-right">
+                
+                <section class="teams-panel">
+                    <div class="panel-header">
+                        <h3>👥 Equipes</h3>
+                        <a href="#" class="view-all">Ver todas →</a>
+                    </div>
+                    <div id="teams-list"></div>
+                </section>
+
+                <section class="stats-mini-panel">
+                    <div class="panel-header">
+                        <h3>📈 Estatísticas</h3>
+                    </div>
+                    <div class="stats-content">
+                        <div class="stat-row">
+                            <span>Taxa de Resolução</span>
+                            <span class="val">87%</span>
+                        </div>
+                        <div class="progress-bar"><div class="fill" style="width: 87%"></div></div>
+                        
+                        <div class="stat-row">
+                            <span>Tempo Médio</span>
+                            <span class="val">2.5 dias</span>
+                        </div>
+                        <div class="stat-row">
+                            <span>Ocorrências (Mês)</span>
+                            <span class="val">1,248</span>
+                        </div>
+                        <div class="stat-row">
+                            <span>Satisfação</span>
+                            <span class="val green">92%</span>
+                        </div>
+                    </div>
+                </section>
+
+            </aside>
+        </main>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
